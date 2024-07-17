@@ -153,6 +153,3 @@ The software code has been divided into four different packages:
 
 Click [here](src/com/inventory/) to skip directly to the source code.
 
-## Work-in-Progress
-
-This project is a work in progress and more features are yet to be added with new technologies.
